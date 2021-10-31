@@ -8,3 +8,5 @@ In this COVID era, social distancing is a very important protocol to be followed
 Even though the project has been curated for the COVID situation, it still has its utilities in the post-COVID era. This project shall eventually help in preventing excessive gathering at any closed place at any time. 
 
 Banks, post offices, shopping malls are some of the very examples of places where we can effectively apply this project.
+
+![Circuit diagram](https://user-images.githubusercontent.com/69625136/139592829-007e4f20-4942-478a-9621-64c7872205f5.png)
