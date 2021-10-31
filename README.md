@@ -1,4 +1,4 @@
-# Live_Attendance_Monitor
+# Live Attendance Monitor
 A bidirectional entry &amp; exit monitor which displays the number of people in a room so that attendance can be limited to ensure social distancing in the COVID-19 Pandemic.
 
 This is an Arduino based embedded system, where it is aimed to count the number of people present in a certain room at any instance.
